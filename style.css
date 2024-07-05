@@ -1,0 +1,21 @@
+.full-width {
+    width: 100%;
+}
+.carousel-item img {
+    width: 100%;
+    height: 250px;
+}
+
+.welcome-img{
+    width: 100%;
+    height: 300px;
+    
+}
+.passegino-img {
+    width: 100%;
+    height: 300px;
+    
+}
+body {
+    background-color: pink;
+}
